@@ -1,1 +1,1 @@
-# excursion
+# excursion - Codecademy project for Github
