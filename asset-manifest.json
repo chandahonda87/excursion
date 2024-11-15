@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/excursion/static/css/main.c2fea464.css",
+    "main.js": "/excursion/static/js/main.08482dcb.js",
+    "static/media/excursion.mp4": "/excursion/static/media/excursion.e682c771cf358f03bd89.mp4",
+    "static/media/camp.jpg": "/excursion/static/media/camp.14bcecdb5e20cf8b5bfe.jpg",
+    "static/media/copyright.png": "/excursion/static/media/copyright.039e3aaaddfab1f062c7.png",
+    "static/media/iphone-2.png": "/excursion/static/media/iphone-2.519b450e6ff19cb0eb48.png",
+    "index.html": "/excursion/index.html",
+    "main.c2fea464.css.map": "/excursion/static/css/main.c2fea464.css.map",
+    "main.08482dcb.js.map": "/excursion/static/js/main.08482dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2fea464.css",
+    "static/js/main.08482dcb.js"
+  ]
+}
