@@ -1,6 +1,112 @@
 .App {
   text-align: center;
-  background-color: aqua;
+  background-color: rgb(14, 22, 22);
 }
 
+.hr {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+  color: white;
+  justify-content: center;
+}
+
+.App h2 {
+  color:aquamarine;
+  font-size: 16px;
+}
+
+.hrB {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.hrC {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: grey;
+}
+
+.tent {
+  width: 70%;
+}
+
+.phone {
+  width: 100px;
+  margin-top: 10px;
+}
+
+.hrD {
+  color: white;
+  font-size: 50px;
+}
+
+.ft {
+  color:aquamarine;
+  text-decoration: underline;
+}
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+}
+
+footer img {
+  width: 20px;
+  margin-right: 5px;
+  
+}
+
+footer h3 {
+  color: white;
+  margin-left: 5px;
+  margin-right: 40px;
+}
+
+@media (max-width: 600px) {
+  .App {
+    background-color: rgb(59, 126, 198);
+
+    h2 {
+      color: white;
+    }
+  }
+
+  .hr {
+    color:black;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  video {
+    height: 500px;
+  }
+
+  .hrB {
+    font-size: 20px;
+  }
+
+  .hrC {
+    font-size: 16px;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .tent {
+    width: 100%;
+    height: 300px;
+  }
+
+  .hrD {
+    font-size: 16px;
+  }
+
+}
 
